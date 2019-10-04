@@ -1,6 +1,6 @@
 package com.microsoft.codepush.common;
 
-import android.support.annotation.VisibleForTesting;
+import androidx.annotation.VisibleForTesting;
 
 import com.microsoft.appcenter.AbstractAppCenterService;
 import com.microsoft.appcenter.utils.AppCenterLog;
