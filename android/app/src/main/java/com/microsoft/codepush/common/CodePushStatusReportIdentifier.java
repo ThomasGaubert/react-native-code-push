@@ -1,6 +1,6 @@
 package com.microsoft.codepush.common;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Identifier for status report saved on users device.
